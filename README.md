@@ -1,8 +1,13 @@
 <!-- Typing intro animation -->
+<!-- Typing SVG Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=200&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+RahulDevCodeCreation+👋;Full+Stack+Developer+in+Making+💻;Crafting+Web+Magic+with+Code+✨" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=200&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+rdev014+👋;Full+Stack+Developer+💻;MERN+Stack+Builder+🚀;Always+Learning+%26+Building+✨" alt="Typing animation" />
 </p>
 
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6E40C9&height=150&section=header&text=rdev014&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=55" />
+</p>
 ---
 
 ## 💡 About Me
