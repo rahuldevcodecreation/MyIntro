@@ -1,44 +1,44 @@
-<!-- Animated Typing Intro -->
+<!-- Typing SVG Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=200&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Rahul+Dev+👋;Full+Stack+Developer+💻;MERN+Stack+Specialist+🚀;Open+Source+Contributor+🌍;UI%2FUX+Enthusiast+🎨" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=200&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+rdev014+👋;Full+Stack+Developer+💻;MERN+Stack+Builder+🚀;Always+Learning+%26+Building+✨" alt="Typing animation" />
 </p>
 
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6E40C9&height=150&section=header&text=Rahul%20Dev&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6E40C9&height=150&section=header&text=rdev014&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=55" />
 </p>
 
 ---
 
 # 👨‍💻 About Me  
 
-🌟 I’m **Rahul Dev**, a passionate **Full Stack Developer** who loves turning ideas into reality through code.  
-💡 I focus on creating **scalable**, **secure**, and **beautifully designed** applications.  
+Hi! I'm **rdev014**, a passionate **Full Stack Developer** who loves to create modern, scalable, and visually stunning applications.  
 
-✨ My specialties:  
-- 🖌️ **Frontend**: Crafting sleek UIs with **HTML, CSS, JavaScript, React**  
-- ⚙️ **Backend**: Building robust APIs with **Node.js & Express.js**  
-- 🛢️ **Databases**: Designing schemas with **MySQL** & **MongoDB**  
-- 🚀 **Full Stack**: Expertise in **MERN Stack Development**  
+- 🎨 I design beautiful **frontends** with **HTML, CSS, JavaScript, React**  
+- ⚙️ I build strong **backends** with **Node.js & Express.js**  
+- 🛢️ I work with **MySQL** & **MongoDB** for database management  
+- 🚀 I’m experienced in **MERN Stack Development**  
+
+💡 Always exploring new tech and leveling up my developer journey.  
 
 ---
 
 # 🛠 Tech Arsenal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mysql,mongodb,bootstrap,tailwind,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mysql,mongodb,bootstrap,tailwind,git,github,vscode" />
 </p>
 
 ---
 
-# 🚀 Projects  
+# 🚀 Featured Projects  
 
-🔹 **[Portfolio Website](#)** – My personal portfolio showcasing skills & projects.  
-🔹 **[Task Manager App](#)** – MERN stack application for productivity & team collaboration.  
-🔹 **[E-Commerce Store](#)** – Full-stack web app with cart, payments, and admin dashboard.  
-🔹 **[Blog Platform](#)** – A modern blog system with authentication and CMS features.  
+🔹 **[Portfolio Website](#)** – A personal site showcasing my journey.  
+🔹 **[Task Manager App](#)** – A productivity tool with full MERN stack.  
+🔹 **[E-Commerce Store](#)** – Full-stack shop with cart & payments.  
+🔹 **[Blog Platform](#)** – A CMS-powered blog with authentication.  
 
-> *(Replace `#` with your real repo/demo links)*  
+*(Replace `#` with your actual repo/demo links)*  
 
 ---
 
@@ -79,9 +79,9 @@
 
 ---
 
-# 🎯 Fun Fact  
+# 🎯 Fun Quote  
 
-> "Great code is like poetry — simple, elegant, and powerful."  
+> "Code is not just about solving problems — it’s about creating experiences."  
 
 ---
 
