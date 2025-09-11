@@ -1,68 +1,74 @@
-<!-- Typing SVG Intro -->
+<!-- Typing intro animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=200&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+rdev014+👋;Full+Stack+Developer+💻;MERN+Stack+Builder+🚀;Always+Learning+%26+Building+✨" alt="Typing animation" />
-</p>
-
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6E40C9&height=150&section=header&text=rdev014&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=55" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=200&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+RahulDevCodeCreation+👋;Full+Stack+Developer+in+Making+💻;Crafting+Web+Magic+with+Code+✨" alt="Typing Animation" />
 </p>
 
 ---
 
-# 👨‍💻 About Me  
+## 💡 About Me
 
-Hi! I'm **rdev014**, a passionate **Full Stack Developer** who loves to create modern, scalable, and visually stunning applications.  
+Hi there! I’m **RahulDevCodeCreation**, a budding Full Stack Developer excited about building amazing web experiences.  
 
-- 🎨 I design beautiful **frontends** with **HTML, CSS, JavaScript, React**  
-- ⚙️ I build strong **backends** with **Node.js & Express.js**  
-- 🛢️ I work with **MySQL** & **MongoDB** for database management  
-- 🚀 I’m experienced in **MERN Stack Development**  
-
-💡 Always exploring new tech and leveling up my developer journey.  
+- 🎯 Currently building hands-on with **HTML**, **CSS**, **JavaScript**, and diving into the **MERN stack**.  
+- 🔧 Learning how to architect scalable backends, create responsive UIs, and optimizing performance.  
+- 📚 Passionate about continuous learning — new tools, frameworks, and concepts every week.
 
 ---
 
-# 🛠 Tech Arsenal  
+## 🛠 My Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mysql,mongodb,bootstrap,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mongodb,git,github" />
+</p>
+
+- Frontend: HTML • CSS • JavaScript  
+- Backend: Node.js & Express.js  
+- Database: MongoDB (NoSQL)  
+- Tools & Version Control: Git, GitHub  
+
+---
+
+## 🚀 Projects
+
+Here are some projects I’m working on / plan to build:
+
+| Name | Description |
+|---|---|
+| **Portfolio** | A personal site to show my skills & about me. |
+| **TODO App** | Simple task list app to practice CRUD operations. |
+| **Blog Platform** | A place where I post what I learn. |
+| **E-Commerce Store** | In future: Shopping site with products & cart. |
+
+> *(I’ll add links/screenshots when they’re ready)*
+
+---
+
+## 🎉 Fun Facts
+
+- I love solving puzzles and coding challenges.  
+- Coffee and coding go hand in hand. ☕  
+- I enjoy experimenting with CSS animations & small UI effects.  
+- I believe in writing clean code — readable, well-formatted, maintainable.
+
+---
+
+## 📊 GitHub Stats & Animations
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahuldevcodecreation&show_icons=true&theme=tokyonight&hide_border=true" height="160em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahuldevcodecreation&theme=tokyonight&hide_border=true" height="160em" />
 </p>
 
 ---
 
-# 🚀 Featured Projects  
-
-🔹 **[Portfolio Website](#)** – A personal site showcasing my journey.  
-🔹 **[Task Manager App](#)** – A productivity tool with full MERN stack.  
-🔹 **[E-Commerce Store](#)** – Full-stack shop with cart & payments.  
-🔹 **[Blog Platform](#)** – A CMS-powered blog with authentication.  
-
-*(Replace `#` with your actual repo/demo links)*  
-
----
-
-# 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdev014&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rdev014&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rdev014&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-# 🌍 Connect With Me  
+## 🌍 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Me-D14836.svg?logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/YOUR-LINK" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" />
@@ -71,21 +77,6 @@ Hi! I'm **rdev014**, a passionate **Full Stack Developer** who loves to create m
 
 ---
 
-# 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rdev014/rdev014/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
----
-
-# 🎯 Fun Quote  
-
-> "Code is not just about solving problems — it’s about creating experiences."  
-
----
-
-<!-- Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6E40C9&height=120&section=footer" />
 </p>
