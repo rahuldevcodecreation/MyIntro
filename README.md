@@ -12,7 +12,7 @@
 
 ## 💡 About Me
 
-Hi there! I’m **RahulDevCodeCreation**, a budding Full Stack Developer excited about building amazing web experiences.  
+Hi there! I’m **RahulDevCodeCreation**, a budding frontend  Developer excited about building amazing web experiences.  
 
 - 🎯 Currently building hands-on with **HTML**, **CSS**, **JavaScript**, and diving into the **MERN stack**.  
 - 🔧 Learning how to architect scalable backends, create responsive UIs, and optimizing performance.  
